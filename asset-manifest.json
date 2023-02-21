@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.6f7605c4.css",
-    "main.js": "/static/js/main.d1f8c21d.js",
+    "main.js": "/static/js/main.525333d1.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/fp.png": "/static/media/fp.7ca63257be3a2e772463.png",
     "static/media/matplotlib.png": "/static/media/matplotlib.50d5984047e51d993574.png",
     "static/media/azure.png": "/static/media/azure.e45d82b99009ca266abe.png",
     "static/media/Diego_Biagini_CV.pdf": "/static/media/Diego_Biagini_CV.5192c0ff75465a2b0efa.pdf",
-    "static/media/StyleDetect.png": "/static/media/StyleDetect.a9db66be14b7743087bb.png",
     "static/media/VLSI_Opt.jpg": "/static/media/VLSI_Opt.45d189bbcae2139513e4.jpg",
     "static/media/jax.png": "/static/media/jax.3748024222c30578087d.png",
     "static/media/java.png": "/static/media/java.42258079f5b00b6f5e34.png",
-    "static/media/KGE.png": "/static/media/KGE.6c832feec64d72dd534d.png",
     "static/media/TesiICDAR.jpg": "/static/media/TesiICDAR.537041bc475886c5e5f5.jpg",
     "static/media/dvc.png": "/static/media/dvc.6953edf179efbf7a6a6a.png",
+    "static/media/StyleDetect.png": "/static/media/StyleDetect.fa86961d566551507175.png",
     "static/media/NatuReddit.png": "/static/media/NatuReddit.a98b3e40cc41875fc093.png",
     "static/media/docker.png": "/static/media/docker.b6e2984e19a909e49dc6.png",
+    "static/media/KGE.png": "/static/media/KGE.9e892ab3bdc3bd794955.png",
     "static/media/dagshub.png": "/static/media/dagshub.fff62097a9aff74e30d3.png",
     "static/media/LoopQCompetition.png": "/static/media/LoopQCompetition.ba0c47d437353e5011b0.png",
     "static/media/prolog.png": "/static/media/prolog.7bd06cbfe05bc7a042d7.png",
@@ -34,11 +34,11 @@
     "static/media/c.png": "/static/media/c.436ecd3501dbd262f915.png",
     "index.html": "/index.html",
     "main.6f7605c4.css.map": "/static/css/main.6f7605c4.css.map",
-    "main.d1f8c21d.js.map": "/static/js/main.d1f8c21d.js.map",
+    "main.525333d1.js.map": "/static/js/main.525333d1.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f7605c4.css",
-    "static/js/main.d1f8c21d.js"
+    "static/js/main.525333d1.js"
   ]
 }
